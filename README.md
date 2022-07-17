@@ -23,16 +23,17 @@ step3: install virtualbox
       
 step4: install Xubuntu 20.04 Focal Fossa in virtualbox
 
-   1- press New button to create virtual machine
+   1- press New button to  create new virtual machine
 
    2- enter the Name and changing type and v hen press Next 
   
   ![9](https://user-images.githubusercontent.com/64277741/179389486-a43699ca-6250-44fc-8826-76355ea130cd.PNG)
 
 
-6- memory size,Move the arrow to the end of the green line then press Next
+6- memory size, changing value to 2048 then press Next
+![10](https://user-images.githubusercontent.com/64277741/179404099-2120b644-5da9-4e9f-a09e-244ba982df30.PNG)
 
-7- then you don't need to change any options just next>next>next>create
+
 
 8- Now you have a new virtual machine
 
