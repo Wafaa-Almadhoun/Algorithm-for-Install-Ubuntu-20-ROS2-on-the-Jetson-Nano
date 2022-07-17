@@ -1,19 +1,6 @@
 # Algorithm-for-Install-XUbuntu-20-ROS2-on-the-Jetson-Nano
 
 
- ## Table of contents
-* [install Xubuntu 20.04 Focal Fossa ](#install Xubuntu 20.04 Focal Fossa )
-* [install virtualbox](#install virtualbox )
-* [install Ros2 in Xubntu](#install Ros2 in Xubntu)
-
-## Table of contents
-* [install Xubuntu 20.04 Focal Fossa](# install Xubuntu 20.04 Focal Fossa)
-* [Technologies](#technologies)
-* [Components required](#Components-required)
-* [Connections](#Connections)
-* [Block diagram & simulation ](#Block-diagram-&-simulation)
-
-
 ## install Xubuntu 20.04 Focal Fossa 
 
 
