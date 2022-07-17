@@ -12,24 +12,22 @@ step2:choose 64-bit PC (AMD64) desktop image and download
 step3: install virtualbox 
   
    1- download virtualbox (VirtualBox 6.1.34 )platform packages [here](https://www.virtualbox.org/wiki/Downloads) 
-      
-      
   
-      2- choose windows hosts 
+   2- choose windows hosts 
   
-      3- open file and setup the program 
+   3- open file and setup the program 
   
-      4- you don't need to change any options just next>next>next>finish
+   4- you don't need to change any options just next>next>next>finish
   
-      5- open the Oracle VM VirtualBox 
+   5- open the Oracle VM VirtualBox 
       
 step4: install Xubuntu 20.04 Focal Fossa in virtualbox
 
-      1- press New button to create virtual machine
+   1- press New button to create virtual machine
 
-      2- enter the Name and changing type and v hen press Next 
-      
-      ![9](https://user-images.githubusercontent.com/64277741/179389486-a43699ca-6250-44fc-8826-76355ea130cd.PNG)
+   2- enter the Name and changing type and v hen press Next 
+  
+  ![9](https://user-images.githubusercontent.com/64277741/179389486-a43699ca-6250-44fc-8826-76355ea130cd.PNG)
 
 
 6- memory size,Move the arrow to the end of the green line then press Next
