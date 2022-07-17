@@ -93,7 +93,13 @@ step4: install Xubuntu 20.04 Focal Fossa in virtualbox
 
 21- then press continue 
 
-![24](https://user-images.githubusercontent.com/64277741/179420992-9f3a431f-7bdd-4097-a335-a588f57247a4.PNG)
+![24](https://user-images.githubusercontent.com/64277741/179420992-9f3a431f-7bdd-4097-a335-a588f57247a4.PNG)  
+
+22- then choose the Area and continue
+
+23- then Fill in the required , your name and etc then press continue
+
+
 
       
    
