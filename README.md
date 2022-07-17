@@ -31,6 +31,7 @@ step4: install Xubuntu 20.04 Focal Fossa in virtualbox
 
 
 6- memory size, changing value to 2048 then press Next
+
 ![10](https://user-images.githubusercontent.com/64277741/179404099-2120b644-5da9-4e9f-a09e-244ba982df30.PNG)
 
 7- Hard disk you don't need to change any options ,  then press Next
