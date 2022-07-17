@@ -11,7 +11,7 @@ step2:choose 64-bit PC (AMD64) desktop image and download
 
 step3: install virtualbox 
   
-      1- download virtualbox (VirtualBox 6.1.34 )platform packages [here](https://www.virtualbox.org/wiki/Downloads) 
+   1- download virtualbox (VirtualBox 6.1.34 )platform packages [here](https://www.virtualbox.org/wiki/Downloads) 
       
       
   
