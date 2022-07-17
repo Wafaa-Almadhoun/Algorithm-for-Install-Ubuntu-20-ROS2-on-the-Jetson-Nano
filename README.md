@@ -7,7 +7,7 @@
 * [install Ros2 in Xubntu](#install Ros2 in Xubntu)
 
 ## Table of contents
-* [Introduction](#Introduction)
+* [install Xubuntu 20.04 Focal Fossa](#Introduction)
 * [Technologies](#technologies)
 * [Components required](#Components-required)
 * [Connections](#Connections)
