@@ -74,12 +74,26 @@ step4: install Xubuntu 20.04 Focal Fossa in virtualbox
 
 ![18](https://user-images.githubusercontent.com/64277741/179419766-a3901cd6-5c25-4409-bbb9-67e8b392989a.PNG)
 
-16- open the new virtual machine  press start > choose Xubuntu 20.04 Focal Fossa file 
+16- open the new virtual machine  press start > choose Xubuntu 20.04 Focal Fossa file > start 
 
 ![21](https://user-images.githubusercontent.com/64277741/179420592-794820ef-de29-45c4-90db-3fbc2b732d18.PNG)
 
+17- then choose Install Xubuntu 
 
 
+![22](https://user-images.githubusercontent.com/64277741/179420704-30145acc-8f83-493f-a8cb-d79f2b5a4d71.PNG)
+
+18- then don't need to change any options ,press continue 
+
+19- then tike it off chech  > setting below > press continue
+
+![23](https://user-images.githubusercontent.com/64277741/179420820-3b9ce506-d638-40e2-b3e9-34c32a070bb6.PNG)
+
+20- then don't need to change any options ,press install now  > 
+
+21- then press continue 
+
+![24](https://user-images.githubusercontent.com/64277741/179420992-9f3a431f-7bdd-4097-a335-a588f57247a4.PNG)
 
       
    
