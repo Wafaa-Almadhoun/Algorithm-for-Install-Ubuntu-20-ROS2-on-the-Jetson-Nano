@@ -64,9 +64,10 @@ step4: install Xubuntu 20.04 Focal Fossa in virtualbox
 14- 13- then press setting  button > storge > cotroller:IDE empty > press into empty > change opitical drive > choose Xubuntu 20.04 Focal Fossa file  ,check all settings
 
 
-![17 5](https://user-images.githubusercontent.com/64277741/179419658-5ac69ed9-8022-44aa-ae22-d5d1fa70a201.PNG)
+![20](https://user-images.githubusercontent.com/64277741/179420454-693dd562-3d30-41e8-a3be-0a17069f9357.PNG)
 
-![18](https://user-images.githubusercontent.com/64277741/179419662-cdae85a2-a68c-4600-8477-e7972aeb3313.PNG)
+![19](https://user-images.githubusercontent.com/64277741/179420407-91a3a4e7-225d-4bf4-839d-1e48c1fe8589.PNG)
+
 
 15- open it and press setting  button > display > screen > graphics controller  ,check all settings
 
